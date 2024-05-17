@@ -25,8 +25,8 @@ A equipe de desenvolvimento detalha os itens do Sprint Backlog e planeja como ir
 
 O objetivo deste teste é que você leia os dados da planilha dados.xlsx, e para cada sheet, crie um baralho, e para cada baralho, adicione todas as linhas contendo a pergunta e a resposta do respectivo card.
 
-Diferencial 1: Utilize Docker com todas as dependências necessárias. PHP, Selenium.
+**Diferencial 1**: Utilize Docker com todas as dependências necessárias. PHP, Selenium.
 
-Diferencial 2: Documente o passo a passo para rodar o projeto.
+**Diferencial 2**: Documente o passo a passo para rodar o projeto.
 
-Diferencial 3: Não deixe o usuário e senha do Anki mockado no código, utilize variáveis de ambiente no arquivo Dockerfile.
+**Diferencial 3**: Não deixe o usuário e senha do Anki mockado no código, utilize variáveis de ambiente no arquivo Dockerfile.
