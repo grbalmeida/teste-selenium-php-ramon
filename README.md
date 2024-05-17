@@ -25,6 +25,10 @@ A equipe de desenvolvimento detalha os itens do Sprint Backlog e planeja como ir
 
 O objetivo deste teste é que você leia os dados da planilha dados.xlsx, e para cada sheet, crie um baralho, e para cada baralho, adicione todas as linhas contendo a pergunta e a resposta do respectivo card.
 
+IMPORTANTE: Caso o baralho já exista, não crie um baralho com nome duplicado, apenas adicione o card com frente e verso no baralho existente.
+
+O objetivo deste teste é que você automatize o cadastro dos flashcards, para que o usuário não tenha que cadastrar os mesmos manualmente.
+
 **Diferencial 1**: Utilize Docker com todas as dependências necessárias. PHP, Selenium.
 
 **Diferencial 2**: Documente o passo a passo para rodar o projeto.
